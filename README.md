@@ -1,0 +1,2 @@
+# Deterministic-Intelligence-2026-
+Tier-16 deterministic intelligence architecture for 2026. Entropy-locked reasoning (ΔH = 0.0041), cross-domain coherence, Time Crystal equivalence, and the DI Principles (Scrolls 0–162).
