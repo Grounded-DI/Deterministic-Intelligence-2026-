@@ -1,6 +1,6 @@
 🔗 **Provisional Patent Filing #35 = Grounded DI LLC**
 **Mesh Guard Orchestrator (MGO)**
-**Application No. 63/974,990 • Filed February 4, 2026**
+**Application No. 63/975,758 • Filed February 4, 2026**
 
 A deterministic control-plane that enforces mesh admission, routing, quarantine, and policy governance for distributed deterministic intelligence (DI) runtimes.
 
