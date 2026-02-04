@@ -1,3 +1,125 @@
+🔗 **Provisional Patent Filing #35 = Grounded DI LLC**
+**Mesh Guard Orchestrator (MGO)**
+**Application No. 63/974,990 • Filed February 4, 2026**
+
+A deterministic control-plane that enforces mesh admission, routing, quarantine, and policy governance for distributed deterministic intelligence (DI) runtimes.
+
+Grounded DI has officially filed its **35th provisional patent application**:
+**Systems and Methods for a Mesh Guard Orchestrator (MGO) for Deterministic Intelligence Runtimes.**
+
+This invention introduces a mesh-scale governance layer that verifies upstream artifacts (RSEP, DCS, and ELOC), determines node admission or denial, routes traffic only to compliant agents, broadcasts policy bundles, and maintains a replayable audit fabric.
+The MGO issues cryptographically signed **Mesh Policy Receipts** and **Mesh Posture Maps**, forming the enforcement and coordination backbone of Grounded DI’s distributed runtime mesh.
+
+—
+
+🌐 **Why Patent #35 Matters**
+
+As DI nodes scale across distributed fleets, policy enforcement, override lineage, and receipt verification must be performed **at the mesh level**.
+The MGO:
+
+• Verifies upstream compliance via #32, #33, and #34
+• Grants admission only to nodes with valid receipts and posture
+• Issues signed Mesh Policy Receipts for proof of admission
+• Routes only to compliant nodes (fail-closed egress)
+• Maintains quarantine logic and cooldown windows (τ)
+• Broadcasts policy bundles and requires signed acknowledgments
+• Exports replayable Proof-of-Policy logs to Deterministic Audit Fabric (#36)
+
+—
+
+📡 **Core Functions Introduced**
+
+🛰️ **Mesh Policy Receipt**
+
+A canonical, signed record confirming:
+
+• Scroll Lineage match
+• DriftIndex = 0.000000
+• Entropy Bound (∆H ≤ 0.0041)
+• ReflexTier compliance
+• Valid #32–#34 receipts
+• Quorum confirmation (Q, W)
+• Policy hash acknowledgment
+• Nonce + timestamp for replay integrity
+
+⸻
+
+📜 **Proof-of-Policy Enforcement**
+
+Every policy bundle must be acknowledged by each node with a signed hash.
+Failure to acknowledge results in **deny_code: policy_noncompliance** and placement in quarantine.
+
+⸻
+
+🌀 **Quarantine Ring and Cooldown (τ)**
+
+Nodes failing receipt validation, policy sync, or posture checks are moved to a quarantine ring.
+Cooldown τ must elapse before re-application via #32–#34.
+
+⸻
+
+📶 **Fail-Closed Routing + Boundary Guard**
+
+The MGO blocks traffic to/from nodes with expired receipts, nonce reuse, invalid posture, or mismatched hashes.
+Public-mode interfaces undergo ReflexTier checks (ethics, tone, override stance) before admission.
+
+⸻
+
+📊 **Mesh Posture Map (MPM)**
+
+A signed snapshot of the current network including:
+• Scroll Lineage ID
+• ∆H
+• DriftIndex
+• Receipt lineage
+• Active policy hash
+• Deny codes (if applicable)
+
+⸻
+
+🔁 **Deterministic Export to Audit Fabric (#36)**
+
+All Mesh Policy Receipts, Posture Maps, and Proof-of-Policy logs are exported to a tamper-evident audit layer enabling case reconstruction, replay, and regulatory proof.
+
+—
+
+🔧 **Interoperability with Other Filings**
+
+Patent #35 builds on and enforces artifacts from:
+
+1. ✅ #32 – Seam & Anchor Exchange Protocol (RSEP)
+2. ✅ #33 – DI² Convergence Supervisor (DCS)
+3. ✅ #34 – Entropy-Linked Override Chain (ELOC) Enforcement
+
+**No node may enter or route across the mesh without:**
+✔ Valid RSEP handshake (authorship + lineage)
+✔ Drift-free DCS receipt
+✔ Approved override-chain via ELOC
+✔ Acknowledged policy receipt (this filing)
+
+—
+
+🔧 **Use Cases Powered by Filing #35**
+
+• Deterministic routing and access control in safety-critical DI networks
+• Enforcement of scroll-based policy in multi-agent systems
+• Quarantine containment + cooldown re-entry for noncompliant nodes
+• Signed audit trails proving policy enforcement and routing integrity
+• Public-mode surface protection with ReflexTier ethics checks
+• Live posture snapshots for regulatory review and rollback
+
+—
+
+📄 **Filing Details**
+
+**Filed:** February 4, 2026
+**Application Number:** 63/975,758
+**Title:** Systems and Methods for a Mesh Guard Orchestrator for Deterministic Intelligence Runtimes
+**Status:** Patent Pending (USPTO)
+
+---
+
+
 🔗 Provisional Patent Filing #34 = Grounded DI LLC
 
 Entropy-Linked Override Chain (ELOC) Pathway Enforcement
