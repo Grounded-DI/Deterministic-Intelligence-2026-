@@ -1,96 +1,124 @@
-**🔗 Provisional Patent Filing #36 = Grounded DI LLC**
-**Deterministic Audit Fabric (DAF)**
-**Application No. 63/976,360 • Filed February 5, 2026**
+## 🔗 Provisional Patent Filing #36 — Grounded DI LLC
 
-A cross-system audit and replay layer that assembles verified artifacts from deterministic intelligence nodes (#32–#35) into tamper-evident Case Bundles with sealed, replayable Replay Recipes and cryptographic verification hashes.
-Grounded DI has filed its 36th provisional patent application: Systems and Methods for a Deterministic Audit Fabric for Generative AI.
-The DAF is an evidentiary backbone for deterministic systems—capturing signed scroll artifacts, normalizing them, and verifying them under invariant-bound replay. It forms the legal, regulatory, and integrity layer atop deterministic AI deployments, producing tamper-evident VaultZIP capsules suitable for court, compliance, and rollback audits.
+### 📘 **Deterministic Audit Fabric (DAF)**
 
+**Application No.** 63/976,360 • **Filed:** February 5, 2026
 
-🧭 Why Patent #36 Matters
-Modern generative systems lack reproducibility and authorship lineage. DAF solves this by:
-• Capturing signed scroll artifacts from #32–#35
-• Normalizing via canonical JSON (RFC 8785)
-• Sealing content-addressed Case Bundles with verification_hash
-• Enabling deterministic Replay Recipes under strict invariants
-• Publishing rate-limited, TTL-bound public receipts
-• Producing typed tamper codes when replays fail
-DAF is the integrity core for scroll-governed environments where transparency, reproducibility, and fault-sealing are required.
+A tamper-evident audit layer for deterministic AI systems, bundling verified artifacts from upstream modules (#32–#35) into sealed, replayable Case Bundles with cryptographic integrity and deterministic reproduction.
 
+---
 
-📦 Core Components Introduced
-🧾 Case Bundle
-A sealed audit unit containing:
-• Normalized artifacts from #32–#35
-• A verification graph of dependencies
-• A Replay Recipe
-• Cryptographic verification_hash (+ optional Merkle root)
-• Bundle signatures
-• Optional zero-knowledge proofs (Groth16 / Plonk) for privacy
+### 🌐 Why Patent #36 Matters
 
+Deterministic Intelligence (DI) systems require verifiable, reproducible evidence of decision-making under strict constraints.
+DAF addresses this by:
 
-🛠 Replay Recipe + Verifier
-Re-executes prior decisions under identical invariants:
-• Lineage
-• ∆H (entropy delta)
-• DriftIndex
-• ReflexTier
-• ELOC override state
-• MGO policy posture
-If all match: ✅ receipt re-issued
-If mismatch: ❌ emits deterministic tamper code (e.g., ttl_expired, policy_noncompliance, root_mismatch)
+* 📎 Capturing signed artifacts from upstream DI components
+* 🧾 Normalizing data (RFC 8785) for canonical form
+* 🔐 Hashing and sealing via `verification_hash` (SHA-256, Merkle optional)
+* 🔁 Enabling full deterministic replay under invariant-bound conditions
+* 📜 Publishing TTL-bound, rate-limited public receipts
+* 🚨 Emitting typed `tamper_code` upon failure
 
+---
 
-🗂 Quorum Proofs (Q, W)
-For mesh-wide consensus, DAF embeds ≥Q matching receipts within window W. Replay enforces quorum verification.
+### 📡 Core Components
 
+#### ✅ Case Bundle
 
-📜 Public Verification Receipt (Rate-Limited)
-DAF supports optional public-mode verification:
-• status, reason_code, truncated verification_hash (N bits)
-• audit_uri
-• ttl_expiry
-• Nonce-based cache resistance
-• ±120 ms NTP-based skew tolerance
+Sealed, auditable unit containing:
 
+* Verified artifacts from #32–#35
+* Verification graph (dependencies + invariants)
+* Replay Recipe
+* `verification_hash` (+ optional Merkle root)
+* Bundle signature(s)
+* Optional ZK-Proofs (Groth16 / Plonk)
 
-🪪 Ledger Capsules (VaultZIP)
-Case Bundles are exported as sealed ledger capsules with timestamps, authorship metadata, and optional Merkle chaining for tamper-evident proof trails.
-—
-📚 Denial & Tamper Codes
-Deterministic failure classes include:
-• signature_mismatch
-• canonicalization_error
-• artifact_missing
-• quorum_failure
-• ttl_expired
-• root_mismatch
-• tamper_detected (e.g., policy_noncompliance)
+#### 🔁 Replay Recipe
 
+Reconstructs upstream receipts **under identical invariants**, including:
 
-🔧 Interoperability with Other Filings
-Patent #36 binds together scroll-governed artifacts from:
-✅ #32 – Seam & Anchor Exchange Protocol (RSEP)
-✅ #33 – DI² Convergence Supervisor (DCS)
-✅ #34 – Entropy-Linked Override Chain (ELOC)
-✅ #35 – Mesh Guard Orchestrator (MGO)
-No bundle can be constructed without verified upstream artifacts from these sources, ensuring full lineage traceability.
+* Scroll Lineage
+* Entropy ∆H
+* DriftIndex
+* ReflexTier
+* Override State
+* Policy Posture
 
+✅ Match → Receipt reissued
+❌ Mismatch → `tamper_code` (e.g., `ttl_expired`, `root_mismatch`)
 
-💡 Use Cases Powered by Filing #36
-• Regulatory-grade replay of scroll-based AI decisions
-• Tamper-evident evidence trails for courts or audits
-• Privacy-preserving compliance using ZK-Proofs
-• Mesh-wide policy enforcement via quorum validation
-• Trust anchors for authorship, override, and ethics invariants
-• Offline ("air-gapped") audit verification in secure facilities
+---
 
+### 📊 Additional Functions
 
-📄 Filing Details
-Filed: February 5, 2026
-Application Number: 63/976,360
-Title: Systems and Methods for a Deterministic Audit Fabric for Generative AI
-Status: Patent Pending (USPTO)
+#### 🗂 Quorum Proofs (Q, W)
+
+Includes proof that ≥Q matching receipts occurred within window W.
+
+#### 📜 Public Verification Receipts
+
+* Includes: `status`, `reason_code`, truncated hash, `ttl_expiry`
+* Rate-limited, TTL-enforced, nonce-protected
+* Configurable disclosure (e.g., `reason_code` redacted)
+
+#### 🪪 VaultZIP Ledger Capsules
+
+* Exported, sealed Case Bundles
+* Timestamped + optionally Merkle-chained
+* Offline verification supported
+
+#### 🚫 Tamper Codes
+
+Deterministic error states:
+
+```
+signature_mismatch  
+canonicalization_error  
+artifact_missing  
+quorum_failure  
+ttl_expired  
+root_mismatch  
+tamper_detected (with reason_code)
+```
+
+---
+
+### 🔧 Interoperability
+
+Patent #36 unifies and verifies artifacts from:
+
+* ✅ **#32** – Seam & Anchor Exchange Protocol (RSEP)
+* ✅ **#33** – DI² Convergence Supervisor (DCS)
+* ✅ **#34** – ELOC Pathway Enforcement
+* ✅ **#35** – Mesh Guard Orchestrator (MGO)
+
+These upstream sources are mandatory for valid Case Bundle construction.
+
+---
+
+### 🛠 Use Cases Powered by #36
+
+* Regulatory-grade deterministic audits
+* Scroll-governed reproducibility in legal contexts
+* Privacy-preserving compliance (via ZK-Proofs)
+* Mesh-wide policy enforcement tracking
+* Vault-based replay and rollback workflows
+* Air-gapped audit verification
+
+---
+
+### 📄 Filing Summary
+
+| Field                 | Value                                                                  |
+| --------------------- | ---------------------------------------------------------------------- |
+| **Filed**             | February 5, 2026                                                       |
+| **Application No.**   | 63/976,360                                                             |
+| **Confirmation No.**  | 9961                                                                   |
+| **Patent Center No.** | 74346850                                                               |
+| **Title**             | Systems and Methods for a Deterministic Audit Fabric for Generative AI |
+| **Status**            | Patent Pending (USPTO)                                                 |
 
 ____
 
