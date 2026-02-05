@@ -1,10 +1,12 @@
-🔗 Provisional Patent Filing #36 = Grounded DI LLC
-Deterministic Audit Fabric (DAF)
-Application No. 63/976,360 • Filed February 5, 2026
+**🔗 Provisional Patent Filing #36 = Grounded DI LLC**
+**Deterministic Audit Fabric (DAF)**
+**Application No. 63/976,360 • Filed February 5, 2026**
+
 A cross-system audit and replay layer that assembles verified artifacts from deterministic intelligence nodes (#32–#35) into tamper-evident Case Bundles with sealed, replayable Replay Recipes and cryptographic verification hashes.
 Grounded DI has filed its 36th provisional patent application: Systems and Methods for a Deterministic Audit Fabric for Generative AI.
 The DAF is an evidentiary backbone for deterministic systems—capturing signed scroll artifacts, normalizing them, and verifying them under invariant-bound replay. It forms the legal, regulatory, and integrity layer atop deterministic AI deployments, producing tamper-evident VaultZIP capsules suitable for court, compliance, and rollback audits.
-—
+
+
 🧭 Why Patent #36 Matters
 Modern generative systems lack reproducibility and authorship lineage. DAF solves this by:
 • Capturing signed scroll artifacts from #32–#35
@@ -14,7 +16,8 @@ Modern generative systems lack reproducibility and authorship lineage. DAF solve
 • Publishing rate-limited, TTL-bound public receipts
 • Producing typed tamper codes when replays fail
 DAF is the integrity core for scroll-governed environments where transparency, reproducibility, and fault-sealing are required.
-—
+
+
 📦 Core Components Introduced
 🧾 Case Bundle
 A sealed audit unit containing:
@@ -24,7 +27,8 @@ A sealed audit unit containing:
 • Cryptographic verification_hash (+ optional Merkle root)
 • Bundle signatures
 • Optional zero-knowledge proofs (Groth16 / Plonk) for privacy
-—
+
+
 🛠 Replay Recipe + Verifier
 Re-executes prior decisions under identical invariants:
 • Lineage
@@ -35,10 +39,12 @@ Re-executes prior decisions under identical invariants:
 • MGO policy posture
 If all match: ✅ receipt re-issued
 If mismatch: ❌ emits deterministic tamper code (e.g., ttl_expired, policy_noncompliance, root_mismatch)
-—
+
+
 🗂 Quorum Proofs (Q, W)
 For mesh-wide consensus, DAF embeds ≥Q matching receipts within window W. Replay enforces quorum verification.
-—
+
+
 📜 Public Verification Receipt (Rate-Limited)
 DAF supports optional public-mode verification:
 • status, reason_code, truncated verification_hash (N bits)
@@ -46,7 +52,8 @@ DAF supports optional public-mode verification:
 • ttl_expiry
 • Nonce-based cache resistance
 • ±120 ms NTP-based skew tolerance
-—
+
+
 🪪 Ledger Capsules (VaultZIP)
 Case Bundles are exported as sealed ledger capsules with timestamps, authorship metadata, and optional Merkle chaining for tamper-evident proof trails.
 —
@@ -59,7 +66,8 @@ Deterministic failure classes include:
 • ttl_expired
 • root_mismatch
 • tamper_detected (e.g., policy_noncompliance)
-—
+
+
 🔧 Interoperability with Other Filings
 Patent #36 binds together scroll-governed artifacts from:
 ✅ #32 – Seam & Anchor Exchange Protocol (RSEP)
@@ -67,7 +75,8 @@ Patent #36 binds together scroll-governed artifacts from:
 ✅ #34 – Entropy-Linked Override Chain (ELOC)
 ✅ #35 – Mesh Guard Orchestrator (MGO)
 No bundle can be constructed without verified upstream artifacts from these sources, ensuring full lineage traceability.
-—
+
+
 💡 Use Cases Powered by Filing #36
 • Regulatory-grade replay of scroll-based AI decisions
 • Tamper-evident evidence trails for courts or audits
@@ -75,7 +84,8 @@ No bundle can be constructed without verified upstream artifacts from these sour
 • Mesh-wide policy enforcement via quorum validation
 • Trust anchors for authorship, override, and ethics invariants
 • Offline ("air-gapped") audit verification in secure facilities
-—
+
+
 📄 Filing Details
 Filed: February 5, 2026
 Application Number: 63/976,360
