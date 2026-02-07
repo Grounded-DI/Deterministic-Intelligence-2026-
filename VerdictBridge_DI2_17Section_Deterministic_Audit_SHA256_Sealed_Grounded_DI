@@ -483,8 +483,7 @@ The sealed artifact is output as **MagicPDF** with embedded metadata:
 **Scoring:** *Satisfied (1)* • *Not Satisfied (0)* • *Contradiction/HALT*
 
 ```
-CESMS = (Σ w_i · S_i) / (Σ w_i)
-S_i ∈ {0,1}; w_i = element weight (equal unless venue modifies by law)
+[Redacted] = element weight (equal unless venue modifies by law)
 HALT on contradiction or unsupported element.
 ```
 
