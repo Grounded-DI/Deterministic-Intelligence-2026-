@@ -141,14 +141,12 @@ Together these form a unified deterministic mesh across real-estate, insurance, 
 
 📄 Filing Summary
 
-Field	Value
-Filed	February 11, 2026
-Application No.	63/980,401
-Confirmation No.	3042
-Patent Center No.	74434008
-Title	Deterministic Real-Estate, Environmental, and Hazard Fusion Analysis
-Inventor	Mark S. Weinstein
-Status	Patent Pending (USPTO)
+Field		Value
+Filed		February 11, 2026
+App. No.	63/980,401
+Title		Deterministic Real-Estate, Environmental, and Hazard Fusion Analysis
+Inventor	Mark S. Weinstein (Grounded DI)
+Status		Patent Pending (USPTO)
 
 Source: Provisional Patent Filing #38  ￼
 
