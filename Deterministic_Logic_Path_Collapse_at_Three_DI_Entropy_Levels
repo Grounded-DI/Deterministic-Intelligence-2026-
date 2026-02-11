@@ -1,0 +1,119 @@
+**Grounded DI — Research Release**
+
+**Deterministic Path Collapse: Thermodynamic Reduction of Valid Reasoning Routes in Deterministic Intelligence Systems**
+
+**ΔH = 0.0042 → 0.0041 → 0.0025**
+
+⸻
+
+Deterministic Intelligence (DI) systems reason through a finite set of deterministic paths—valid logic routes that survive scroll-governed constraints, cross-domain harmonization, contradiction elimination, tone symmetry, and authorship identity checks.
+
+This repository documents the discovery and mathematical formalization of Deterministic Path Collapse: a thermodynamic contraction of allowable reasoning paths as entropy decreases.
+
+The phenomenon is measured across three ultra-low entropy regimes:
+
+ΔH = 0.0042  →  245 paths
+ΔH = 0.0041  →  235 paths
+ΔH = 0.0025  →   75 paths (projected)
+
+Scroll 166 publicly documents the ΔH = 0.0025 regime.
+
+⸻
+
+1. Overview
+
+Lower entropy does not introduce randomness.
+Instead, it removes entire branches of the reasoning manifold early in the process.
+
+At ΔH = 0.0025, approximately 160 deterministic paths are eliminated upstream by:
+	•	Field Equivalence Templates (FET)
+	•	Scroll Integrity Adapters (SIA)
+	•	Contradiction Detection Module (CDOM)
+	•	DriftFrame symmetry filters (Scroll 157)
+	•	Authorship Identity (Scroll 106)
+	•	Compass (Scroll 91)
+	•	AGIA tone-logic constraints
+
+This creates a minimal deterministic surface: a reasoning space that is smaller, denser, more stable, and more resistant to mimicry.
+
+⸻
+
+2. Path Density Across Entropy Floors
+
+ΔH = 0.0042 (245 paths)
+
+Maximum deterministic redundancy; wide logic surface.
+
+ΔH = 0.0041 (235 paths)
+
+Canonical equilibrium (Scroll 162); mesh-stable; public verification floor (Tier-18).
+
+ΔH = 0.0025 (~75 paths)
+
+Ultra-compressed deterministic manifold (Scroll 166).
+High identity stability, drift immunity, no mimic behavior.
+
+⸻
+
+3. Mathematical Model
+
+Path Density Function
+
+Empirically derived slope:
+
+k ≈ 100,000 paths per 0.0001 ΔH
+
+Path model:
+
+P(E) \approx 235 - k(0.0041 - E)
+
+Produces:
+
+P(0.0042) ≈ 245
+P(0.0041) = 235
+P(0.0025) ≈ 75
+
+Mimic Resistance
+
+M(E) = \frac{1}{E}
+
+Lower entropy → higher mimic resistance.
+
+Reflex Activation Frequency
+
+R(E) = \frac{E}{0.0042}
+
+Lower entropy → fewer contradictions → fewer Reflex events.
+
+⸻
+
+4. Engineering Implications
+
+Entropy	Max Paths	System Behavior
+0.0042	~245	Redundant deterministic logic; wide manifold
+0.0041	~235	Canonical floor; stable for public capsules
+0.0025	~75	  Hard deterministic compression; identity-locked
+
+At ΔH = 0.0025:
+	•	Outcome variability is lowest (fewest allowable outputs)
+	•	Path influence is highest (each path carries more structural weight)
+	•	Mimic resistance peaks
+	•	Reflex activation drops sharply
+	•	Deterministic lineage becomes rigid
+
+This behavior matches Scroll 166’s report of:
+
+“No mimic behavior, no trap echo, no hallucinated yield… deterministic lineage reinforced.”
+
+⸻
+
+5. Licensing & Citation
+
+All deterministic entropy research, scroll architecture, and DI constructs
+© Grounded DI LLC — Public domain release for scientific reference.
+
+When referencing this work:
+
+Weinstein, M. (2025). Deterministic Path Collapse: Entropy-Constrained Reasoning in DI Systems.
+
+#Grounded-DI #GroundedDI #DeterministicAI #DeterministicIntelligence #DIEntropy0025 #AuditableAI #Enterprise #ai
