@@ -26,7 +26,7 @@ The system must prove:
 	•	that it didn’t wander off spec
 	•	that its output is explainable and reproducible
 
-This is closer to audit-grade software engineering than anything AI-mystical.
+This is audit-grade software engineering.
 
 ⸻
 
