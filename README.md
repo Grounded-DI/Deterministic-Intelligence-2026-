@@ -2,7 +2,7 @@
 
 Deterministic Mathematical Computation & Audit System  
 
-Grounded DI LLC
+Grounded DI LLC  
 Application No. 63/984,593 • Filed: February 17, 2026
 
 ⸻
