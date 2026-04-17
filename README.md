@@ -1,6 +1,6 @@
 📘 Provisional Patent Filing #41 — MathWise - Grounded DI LLC
 
-Deterministic Mathematical Computation & Audit System
+Deterministic Mathematical Computation & Audit System  
 
 Grounded DI LLC
 Application No. 63/984,593 • Filed: February 17, 2026
