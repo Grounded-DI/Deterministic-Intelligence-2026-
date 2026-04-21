@@ -26,7 +26,7 @@ As deterministic AI scales across cloud, edge, and federated environments, syste
 Patent #32 solves this with:
 
 ✔ Standardized AnchorRecord (AnchorID, SeamHash, etc.)
-✔ Seam equivalence logic for reentry validation
+✔ Seam equivalence logic for reentry validation  
 ✔ Entropy & tone constraint matching
 ✔ ReflexAnchor confirmation across deployments
 ✔ AuditHashPtr exchange for traceable authorship continuity
