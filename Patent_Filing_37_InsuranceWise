@@ -27,7 +27,7 @@ A sealed artifact per claim, including:
 	•	Override justification (if any)
 	•	ReflexTier marker
 	•	Verification hash (SHA-256)
-	•	Replay Recipe
+	•	Replay Recipe    
 	•	Optional ZK & PQ signature support
 
 🔁 Replay Recipe
