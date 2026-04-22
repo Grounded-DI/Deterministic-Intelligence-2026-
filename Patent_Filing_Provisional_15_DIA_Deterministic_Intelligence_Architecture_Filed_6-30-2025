@@ -1,0 +1,146 @@
+Grounded DI LLC 
+
+## 🧠 Deterministic Intelligence Architecture (DIA Engine) (Provisional Patent Filing #15) (June 30, 2025)
+
+A deterministic logic engine designed to govern and constrain output from probabilistic generative AI systems.
+
+The DIA Engine enforces **structured reasoning**, **audit-traceable logic flow**, and **domain-specific constraints** to ensure causal alignment and epistemic validity in generated responses.
+
+---
+
+## 📄 Official Filing Record (Public-Safe Attribution)
+
+* **Application #:** 63/832,494
+* **Filed:** June 30, 2025
+* **Application Type:** Utility – Provisional (35 USC 111(b))
+* **Confirmation #:** 3054
+* **Filed:** Grounded DI LLC (MSW) 
+
+---
+
+## 🧠 Invention Summary
+
+The DIA Engine operates as a **pre-inference control architecture** that governs how outputs are produced, not merely how they are evaluated.
+
+Core functions include:
+
+* Enforcement of deterministic logic constraints prior to generation
+* Construction of causal reasoning paths using rule-based logic trees
+* Validation of outputs against domain-specific rule maps
+* Generation of audit-traceable metadata for every response
+
+The system ensures that outputs are **causally valid by construction**, rather than filtered or corrected after generation.
+
+---
+
+## 🏗️ Core Architecture
+
+**System Flow**
+
+```
+Prompt Intake → Logic Map Generator → Rule Enforcement → Model Interface → Output Validation → Delivery
+```
+
+**Enforcement Flow**
+
+```
+Logic Interpreter → Deterministic Rule Gates → Causal Constraints → Model Generation → Audit Logging
+```
+
+### Architectural Properties
+
+* Deterministic constraints are applied **before model inference**
+* Invalid reasoning paths are **structurally excluded**
+* Audit traceability is **embedded in the execution process**
+
+---
+
+## ⚙️ Core Capabilities
+
+**Deterministic Logic Trees**
+Transforms natural language input into structured, enforceable causal sequences
+
+**Rule Enforcement Layer**
+Applies domain-specific constraints to ensure logical validity
+
+**Metadata Traceability**
+Tags outputs with logic path, rule source, and validation state
+
+**Logic Runner Integration**
+Supports constrained execution of agent-based systems under deterministic logic
+
+**Multi-Agent Coordination**
+Enables synchronized reasoning across distributed agents using shared rule frameworks
+
+---
+
+## 🔬 Key Distinction
+
+**DIA does not:**
+
+* Filter outputs after generation
+* Apply probabilistic alignment or tuning
+* Rely on post hoc validation
+
+**DIA instead:**
+
+* Enforces reasoning constraints **prior to generation**
+* Ensures outputs are **causally valid by design**
+* Prevents invalid outputs by making them **unreachable within the logic structure**
+
+---
+
+## 🧩 Role in the Full Stack (DI² / AGDI / AGIA Integrated)
+
+---
+
+### Core Engine (Deterministic Trinity)
+
+* **AGDI (Governance)** → Defines allowable actions and constraints
+* **DIA (#15) (Logic Engine)** → Enforces structured, causal reasoning
+* **AGIA (Tone Architecture)** → Maintains consistent, non-drifting output expression
+
+These layers operate as a unified system:
+
+```
+AGDI = Governance (constraints)
+DIA  = Logic (reasoning)
+AGIA = Expression (tone)
+```
+
+Deterministic output requires alignment across all three.
+
+---
+
+### Supervision & Recovery
+
+**DI² (Divergence–Convergence Engine)**
+
+* Detects violations across governance, logic, or tone
+* Initiates deterministic correction through convergence
+* Restores the system to a valid, auditable state
+
+---
+
+## 🔁 End-to-End Behavior
+
+1. AGDI, DIA, and AGIA execute as a unified deterministic engine
+2. DI² monitors for drift or contradiction
+3. On violation, convergence restores a valid state
+
+---
+
+## ✔️ Result
+
+* Outputs conform to deterministic logic constraints
+* Reasoning paths are auditable and reproducible
+* Invalid outputs are structurally prevented
+* System behavior remains stable across domains and executions
+
+---
+
+## 🧱 Final Position
+
+**DIA (#15) defines a deterministic architecture for governing generative AI systems by enforcing logic, constraints, and traceability at the point of reasoning itself.**
+
+#Grounded-DI #GroundedDI #DIA #DeterministicIntelligence #DeterministicAI #ProtocolA #AuditableAI #Logic
