@@ -1,4 +1,4 @@
-Grounded DI LLC 
+## Grounded DI LLC 
 
 ## 🧠 Deterministic Intelligence Architecture (DIA Engine) (Provisional Patent Filing #15) (June 30, 2025)
 
