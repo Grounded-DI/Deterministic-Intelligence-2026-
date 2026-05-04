@@ -1,4 +1,4 @@
-## Grounded DI LLC 
+## Grounded DI LLC - "Precision doesn't guess. It traces." 
 
 ## 🧠 Deterministic Intelligence Architecture (DIA Engine) (Provisional Patent Filing #15) (June 30, 2025)
 
