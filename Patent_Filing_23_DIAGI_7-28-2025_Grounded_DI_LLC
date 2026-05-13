@@ -1,0 +1,183 @@
+## Provisional Filing #23 — Grounded DI LLC   
+## Deterministic Artificial General Intelligence Architecture  
+### Filed July 28, 2025
+
+Grounded DI has filed Provisional Filing #23 covering a deterministic artificial general intelligence architecture.
+
+The invention concerns a deterministic AI architecture governed by:
+
+- logic runner trees
+- constraint enforcement
+- scroll-bound memory
+- entropy monitoring
+- role-aware agent classification
+- deterministic escalation paths
+- audit-tagged outputs
+- cross-domain reasoning controls
+
+The purpose of the filing is to define an AI architecture capable of operating across domains while preserving reproducibility, governance, traceability, and human oversight.
+
+---
+
+## Why This Filing Matters
+
+Most generative AI systems are powerful but difficult to audit in high-consequence settings because outputs may vary across sessions, prompts, model states, or hidden inference paths.
+
+Filing #23 approaches the problem differently.
+
+Instead of treating general intelligence as open-ended stochastic behavior, the architecture frames cross-domain AI as a governed execution system.
+
+The system is designed to route reasoning through controlled logic structures, preserve decision lineage, and enforce deterministic constraints before output generation.
+
+In simple terms:
+
+**Cross-domain reasoning should be structured, inspectable, and governable.**
+
+---
+
+## Core Architecture
+
+The filing describes a layered deterministic architecture involving:
+
+1. **Prompt Intake and Classification**  
+   Parses the user input and assigns role and domain.
+
+2. **Logic Runner Core Engine**  
+   Executes deterministic logic runner trees while rejecting invalid paths.
+
+3. **AGDI Governance Layer**  
+   Applies domain constraints, manages audit records, and triggers escalation where needed.
+
+4. **ELOC Entropy Monitoring**  
+   Detects instability or unsupported variance and routes the system toward suppression, reversion, or controlled reseeding.
+
+5. **AGIA Optimization Layer**  
+   Preserves tone, consistency, and communicative clarity without changing the underlying logic.
+
+6. **Scroll Memory Engine**  
+   Logs logic branches, agent roles, and output lineage for traceability.
+
+---
+
+## Technical Concepts
+
+### Logic Runner Trees
+
+The system uses pre-mapped logic trees to route reasoning through deterministic nodes, threshold triggers, and predefined rule paths.
+
+This allows the architecture to enforce structured reasoning rather than relying only on latent model behavior.
+
+### Agent-Type Classification
+
+Execution roles can be assigned to logic modules, including:
+
+- planner
+- explainer
+- validator
+- evaluator
+- optimizer
+
+This prevents all tasks from being handled as a single undifferentiated generation event.
+
+### Scroll-Bound Memory
+
+The architecture includes structured memory for storing:
+
+- decision paths
+- constraint lineage
+- agent states
+- domain provenance
+- version-stable reasoning records
+
+This supports traceability across sessions and knowledge domains.
+
+### Entropy-Linked Override
+
+The ELOC layer provides deterministic override behavior when instability, constraint failure, or unsupported variance is detected.
+
+Potential actions include:
+
+- output suppression
+- audit reversion
+- fallback to a prior deterministic state
+- escalation logging
+- logic-path restriction
+
+### Audit Tags
+
+Outputs may include metadata identifying:
+
+- logic tree identity
+- constraint path traversal
+- compliance status
+- scroll identity
+- domain lineage
+- version-locked state history
+
+The goal is not merely to generate an answer, but to preserve a record of how the answer was permitted.
+
+---
+
+## Example Use Domains
+
+The filing connects the architecture to multiple Grounded DI application areas, including:
+
+- legal reasoning
+- trial forecasting
+- product identification in civil litigation
+- aerospace diagnostics
+- radiology workflows
+- financial analysis
+- deterministic weather analysis
+- hazard detection
+- public health and water infrastructure analysis
+
+These use cases show the intended role of the architecture: not as a chatbot personality layer, but as a cross-domain governance system for high-consequence AI workflows.
+
+---
+
+## What This Filing Does Not Claim
+
+This filing does **not** claim that the system is sentient, conscious, independently volitional, or self-authoring.
+
+It is framed as a logic-bound artificial intelligence architecture operating under human authorship and oversight.
+
+The system is designed for:
+
+- safety
+- transparency
+- deterministic control
+- auditability
+- reproducibility
+- governed cross-domain reasoning
+
+---
+
+## Why It Belongs in the Grounded DI Stack
+
+Provisional Filing #23 helps connect earlier deterministic systems into a unified architecture.
+
+It sits between domain-specific Grounded DI applications and later execution-wrapper filings by defining the broader deterministic reasoning structure beneath them.
+
+The filing supports the idea that AI systems used in serious domains should not merely produce fluent answers.
+
+They should produce governed outputs with traceable reasoning paths, stable constraints, and verifiable lineage.
+
+---
+
+## Public Summary
+
+Filing #23 defines a model-agnostic deterministic cross-domain AI architecture built around logic runner trees, scroll-bound memory, entropy monitoring, role-aware agents, and audit-tagged outputs.
+
+It is part of the Grounded DI effort to move AI from flexible generation toward structured, reproducible, and governable execution.
+
+**One input.  
+One governed path.  
+One auditable output.**
+
+---
+
+**System Tags:** `#ProtocolA` `#DeterministicIntelligence` `#DeterministicAI` `#DI2` `#DIA` `#AGDI` `#DIAGI` `#AGIA`
+
+— Grounded DI LLC  
+Mark S. Weinstein
