@@ -1,6 +1,6 @@
 Public Filing Update — Deterministic Intelligence Nonprovisional Applications
 
-As of June 28, 2026, the following U.S. utility nonprovisional applications have been received by the USPTO, naming Mr. Mark S. Weinstein as first named inventor.
+As of June 30, 2026, the following U.S. utility nonprovisional applications have been received by the USPTO, naming Mr. Mark S. Weinstein as first named inventor.
 
 Law / BriefWise Application No. 19/686,791 Received: May 24, 2026 Track: Normal-track Title: Deterministic Intelligence Systems and Methods for Controlled Pre-Output Assembly of Legal Outputs Using Authority Binding and Filing-Integrity Validation Note: A related fast-track continuation filing directed to BriefWise / DI² runtime-control architecture is in preparation.
 
@@ -29,5 +29,9 @@ VerdictBridge Application No. 19/720,877 Received: June 25, 2026 Track: Fast-tra
 DI² Application No. 19/722,923 Received: June 28, 2026 Track: Fast-track Title: Deterministic Intelligence Systems for Divergence Containment and Convergence Restoration in Deterministic Execution Architectures
 
 AGDI Application No. 19/722,955 Received: June 28, 2026 Track: Fast-track Title: Deterministic Intelligence Systems and Methods for State-Bound Continuation Control of Generative Agent Operations
+
+DEC / Deterministic Execution Control Application No. 19/724,532 Received: June 29, 2026 Track: Fast-track Title: Deterministic Intelligence Systems and Methods for Deterministic Execution Control Using Constraint-Tree Enforcement, Agent-Type Classification, Escalation Routing, Audit-Linked Rollback, and Controlled Output Authorization in Generative AI Systems
+
+AGIA / Pre-Observability Output-Propagation Control Application No. [insert AGIA application number] Received: [insert AGIA receipt date] Track: Fast-track Title: Deterministic Intelligence Systems and Methods for Pre-Observability Expression-State Authorization and Output-Propagation Control of Machine-Generated Outputs
 
 — Grounded DI LLC
