@@ -1,6 +1,6 @@
 # Public Filing Update — Deterministic Intelligence Non-Provisional Applications
 
-_All applications name Mr. Mark S. Weinstein as first-named inventor. Status as of 30 June 2026._
+_Status as of 30 June 2026._
 
 | Domain / Nickname | Application No. | Received | Title (abridged) |
 | --- | --- | --- | --- |
@@ -21,5 +21,6 @@ _All applications name Mr. Mark S. Weinstein as first-named inventor. Status as 
 | DEC | 19/724,532 | 29 Jun 2026 | Deterministic Execution Control Using Constraint-Tree Enforcement, Agent-Type Classification, Escalation Routing, Audit-Linked Rollback, and Controlled Output Authorization |
 | AGIA | 19/724,908 | 30 Jun 2026 | Pre-Observability Expression-State Authorization and Output-Propagation Control of Machine-Generated Outputs |
 | ELOC | 19/726,030 | 30 Jun 2026 | Entropy-Linked Override Chain Enforcement in Generative Artificial Intelligence Systems |
+| Runtime (DIP / scroll architecture) | 19/726,765 | 30 Jun 2026 | DI Runtime Authorization, Canonical Receipt Binding, and Replay-Verified Execution Control |
 
-— **Grounded DI LLC**
+— **Mark S. Weinstein, Grounded DI LLC**
