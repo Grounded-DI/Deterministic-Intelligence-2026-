@@ -22,5 +22,7 @@ _Status as of 30 June 2026._
 | AGIA | 19/724,908 | 30 Jun 2026 | Pre-Observability Expression-State Authorization and Output-Propagation Control of Machine-Generated Outputs |
 | ELOC | 19/726,030 | 30 Jun 2026 | Entropy-Linked Override Chain Enforcement in Generative Artificial Intelligence Systems |
 | Runtime (DIP / scroll architecture) | 19/726,765 | 30 Jun 2026 | DI Runtime Authorization, Canonical Receipt Binding, and Replay-Verified Execution Control |
+| DI-AGI | 19/726,890 | 30 Jun 2026 | Runtime-Governed Artificial-Intelligence Execution, Replay Verification, and Release Authorization |
+
 
 — **Mark S. Weinstein, Grounded DI LLC**
