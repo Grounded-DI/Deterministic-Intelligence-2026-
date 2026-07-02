@@ -25,4 +25,4 @@ _Status as of 30 June 2026._
 | DI-AGI | 19/726,890 | 30 Jun 2026 | Runtime-Governed Artificial-Intelligence Execution, Replay Verification, and Release Authorization |
 
 
-— **Mark S. Weinstein, Grounded DI LLC**
+— **Grounded DI LLC**
