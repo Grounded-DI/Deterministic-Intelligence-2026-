@@ -1,3 +1,27 @@
+# Grounded DI — Deterministic Intelligence Public Record
+
+Public archive for Grounded DI LLC materials relating to deterministic intelligence, provenance, replay, evidence control, and domain-specific applications.
+
+This repository contains public-record books, technical notes, mathematical work, filing and acknowledgement materials, and explanatory essays. File names are preserved where practical so individual artifacts can be inspected and hashed independently.
+
+## Evidence discipline
+
+Repository publication is artifact publication. It does not independently validate every statement in a source document, establish legal priority or prior-art status, certify a product deployment, or create VerdictReady or FilingReady status.
+
+A hash proves content identity, not truth. Source-reported claims remain source-reported unless an accompanying record establishes a separate verification basis. Some materials may be self-authored, incomplete, synthetic, provisional, or not independently validated.
+
+## How to review
+
+Start with the relevant PDF or source file and any accompanying receipt, manifest, or hash record. Treat derived compilations as separate publication artifacts from the source documents they summarize or combine. Preserve the file name, date, and SHA-256 when citing a specific artifact.
+
+## Status
+
+Public reference repository. The materials are provided for review and technical discussion and are not legal advice.
+
+---
+
+## Background essay (preserved)
+
 # Source: https://medium.com/@groundeddi/synthetic-ai-data-is-not-reality-how-deterministic-intelligence-can-preserve-auditable-and-35413fbe3f6a?postPublishedType=initial
 
 # Synthetic AI Data is Not Reality — How Deterministic Intelligence can Preserve Auditable and Verifiable Practices as Synthetic Information Enters Consequential Systems
