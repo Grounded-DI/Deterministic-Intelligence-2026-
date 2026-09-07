@@ -4,6 +4,52 @@ Public archive for Grounded DI LLC materials relating to deterministic intellige
 
 This repository contains public-record books, technical notes, mathematical work, filing and acknowledgement materials, and explanatory essays. File names are preserved where practical so individual artifacts can be inspected and hashed independently.
 
+## September 2026 — Nine-book evidence and decision library
+
+**Mark S. Weinstein · Grounded DI LLC · Cover/title revision: 7 September 2026**
+
+**Nine books. 260 pages. Four subject groups.** This collection brings Grounded DI's selected exhibits, public chronology, system concepts, mathematical and weather records, and legal application materials into one consistently titled reference library.
+
+Start with the [master catalog](books/2026-09/START_HERE_Master_Catalog.pdf), then download the [complete collection](books/2026-09/). The original ZIP is stored as nine numbered parts, accompanied by a restoration script; assembly reproduces the supplied archive exactly, including all nine PDFs, its index, change log, and checksum manifest.
+
+| Subject | Book | Pages |
+| --- | --- | ---: |
+| Exhibits | Selected Exhibits — Foundations | 18 |
+| Exhibits | Selected Exhibits — Systems and Applications | 18 |
+| Public Record | Public Record — Chronology | 18 |
+| Public Record | The Evidence Arc | 23 |
+| Public Record | The Control Plane | 23 |
+| Case Studies | Before Reality Resolved — DI Weather Station | 55 |
+| Case Studies | MathWise / Erdős — Mathematical Record | 23 |
+| Legal | Law Firm Decision and Evidence | 59 |
+| Legal | BriefWise — Harvey Benchmark Audit | 23 |
+
+### Authorship, chronology, and an inspectable record
+
+This collection documents ideas, terminology, demonstrations, and application work attributed in the source materials to Mark S. Weinstein and Grounded DI LLC. Its purpose is to make that record accessible for substantive review, accurate attribution, and comparison against the dated source evidence.
+
+When discussing or evaluating a Grounded DI idea, identify the specific passage, artifact, date, and version. Distinguish the company's stated proposal from the implementation or test actually documented. Preserve qualifications when quoting or sharing excerpts. This makes agreement, criticism, and later comparison address the same identifiable record.
+
+For citation, use: **Mark S. Weinstein / Grounded DI LLC, [book title], [source date and edition], cover/title revision 7 September 2026, PDF page [number], SHA-256 [revised file hash], [commit-specific file URL].** Preserve any separate authorship attribution within reproduced source exhibits.
+
+### Provenance and preservation
+
+- [Record_Index.csv](books/2026-09/Record_Index.csv) maps canonical titles to legacy identities, original sources, page counts, input and revised hashes, and changed pages.
+- [CHANGE_LOG.md](books/2026-09/CHANGE_LOG.md) records the cover and navigation edits and their preservation checks.
+- [SHA256SUMS.txt](books/2026-09/SHA256SUMS.txt) identifies the final collection files.
+- All nine book page counts remain unchanged. The revision corrects selected covers and editorial navigation; underlying evidence dates and substantive qualifications remain in place.
+- Weather remains the selected **Release Candidate 1**; the fixed Selected Exhibits II edition, the legal book's preliminary status, and Harvey's provisional/local-audit and unofficial-evaluation qualifications are preserved.
+
+The upload check verified the supplied archive checksum, internal manifest, nine index hashes and page counts. The separately attached catalog had different file bytes but identical extracted text and rendered pages; the published catalog uses the exact copy inside the verified ZIP.
+
+The original revised archive is identified by SHA-256 `489b0060864b76ec47b18e75ecb6d1e5193845b053e4099630d0b2815a516903`. The upload connector's request-size limit required nine archive parts. Use [download_collection.py](books/2026-09/download_collection.py) to download and assemble them, or concatenate parts 01–09 in order and verify against the [detached ZIP checksum](books/2026-09/Grounded_DI_Book_Collection_2026-09_Revised.zip.sha256.txt). The script refuses to replace an existing output and checks the full archive hash before finalizing it. After extraction, the internal manifest verifies individual files. A GitHub-generated repository ZIP is a different archive.
+
+### Topics
+
+#GroundedDI #DeterministicIntelligence #DeterministicAI #AuditableAI #AIProvenance #ReproducibleAI #AIGovernance #PublicRecord
+
+---
+
 ## Evidence discipline
 
 Repository publication is artifact publication. It does not independently validate every statement in a source document, establish legal priority or prior-art status, certify a product deployment, or create VerdictReady or FilingReady status.
