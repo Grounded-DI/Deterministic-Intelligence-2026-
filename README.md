@@ -4,6 +4,12 @@ Public archive for Grounded DI LLC materials relating to deterministic intellige
 
 This repository contains public-record books, technical notes, mathematical work, filing and acknowledgement materials, and explanatory essays. File names are preserved where practical so individual artifacts can be inspected and hashed independently.
 
+## October 7, 2026 — DIA execution control and USPTO allowance
+
+**U.S. Patent Application No. 19/716,065 · All 30 claims allowed · Patent not yet issued**
+
+[DIA: Deterministic Execution Control for Generative AI](announcements/2026-10-07-DIA-Deterministic-Execution-Control-USPTO-Allowance.md) documents the architecture’s authorization before model-interface execution, validation before output commitment, and the examiner’s Reasons for Allowance. The dated announcement includes the application record and distinguishes the June 19 claimed priority from the June 30 DIA provisional.
+
 ## September 2026 — Nine-book evidence and decision library
 
 **Mark S. Weinstein · Grounded DI LLC · Cover/title revision: 7 September 2026**
